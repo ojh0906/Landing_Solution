@@ -1,0 +1,42 @@
+.page-header h4{
+    font-size: 25px;
+    font-weight: 500;
+}
+.form-container{
+    width: 650px;
+    margin-top: 50px;
+}
+.form-container .input-container{
+    margin-bottom: 30px;
+}
+.form-container .input-container .label{
+    font-size: 17px;
+    margin-bottom: 10px;
+}
+.form-container .input-container input[type=radio]{
+    width: 15px;
+    height: 15px;
+}
+.form-container .input-container input[type=text]{
+    width: 400px;
+}
+.form-container .input-container textarea{
+    resize: none;
+    height: 200px;
+    width: 400px;
+}
+.form-container .input-container input[type=submit]{
+    background: #1e3f63;
+    color: #fff;
+    padding: 9px;
+    width: 200px;
+    outline: none;
+    border: none;
+    font-size: 15px;
+    border-radius: 5px;
+    text-align: center;
+}
+.form-container .input-container label{
+    font-size: 16px;
+    margin-right: 20px;
+}

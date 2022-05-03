@@ -1,0 +1,48 @@
+.page-header h4{
+    font-size: 25px;
+    font-weight: 500;
+}
+.form-container{
+    width: 650px;
+    margin-top: 50px;
+}
+.form-container .input-container{
+    display: flex;
+    margin-bottom: 30px;
+}
+.form-container .input-container .label{
+    width: 10%;
+    font-size: 16px;
+    font-weight: 500;
+    padding-top: 8px;
+}
+.form-container .input-container .input-wrap{
+    width: 60%;
+}
+.form-container .input-container .input-wrap textarea{
+    resize: none;
+    height: 200px;
+}
+.form-container .input-container input[type=submit]{
+    background: #1e3f63;
+    color: #fff;
+    padding: 9px;
+    width: 200px;
+    outline: none;
+    border: none;
+    font-size: 15px;
+    border-radius: 5px;
+    text-align: center;
+    margin-left: 22%;
+}
+.form-container .input-container .chk-wrap{
+    display: flex;
+}
+.form-container .input-container .chk-wrap label{
+    width: 50%;
+    font-size: 17px;
+}
+.form-container .input-container .chk-wrap input[type=checkbox]{
+    width: 16px;
+    height: 16px;
+}
