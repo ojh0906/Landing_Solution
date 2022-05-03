@@ -679,6 +679,7 @@
     padding-left: 10px;
 }
 
+/* Tablet */
 @media (max-width: 1024px){
     .page1-1{
         overflow: hidden;
@@ -701,6 +702,8 @@
     }
 
 }
+
+/* Mobile */
 @media (max-width: 768px){
     .nav-wrap .logo {
         max-width: 120px;
@@ -825,6 +828,7 @@
     }
 }
 
+/* Mobile2 */
 @media (max-width: 480px){
     .pc-menu-wrap li a {
         font-size: 12px;
